@@ -1,0 +1,35 @@
+name: Daily Cyber Tender Scrape
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run the tender scraper
+        run: python3 scraper/scrape.py
+
+      - name: Commit updated tender data
+        run: |
+          git config user.name "TITO Tender Bot"
+          git config user.email "actions@github.com"
+          git add data/tenders.json
+          git diff --staged --quiet && echo "No changes to commit" || git commit -m "Daily tender data refresh — $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
