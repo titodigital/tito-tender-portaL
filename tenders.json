@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-06-20T00:21:35.353561",
+  "target_year": 2026,
+  "total_open_tenders": 8,
+  "excluded_count": 0,
+  "sources_attempted": 3,
+  "data_source": "fallback_seed",
+  "tenders": [
+    {
+      "id": 1,
+      "title": "Provision of Cybersecurity Operations Centre (SOC) Services",
+      "ref": "DPSA/ICT/2026/CYB-001",
+      "dept": "Department of Public Service & Administration",
+      "country": "South Africa",
+      "source": "eTenders Portal",
+      "url": "https://www.etenders.gov.za",
+      "category": "cybersecurity",
+      "value": "R 8,500,000",
+      "closing": "2026-08-15",
+      "posted": "2026-06-20",
+      "description": "Establishment and management of a Security Operations Centre including SIEM deployment, 24/7 monitoring, incident response, and threat intelligence services.",
+      "keywords": [
+        "cybersecurity",
+        "security operations centre",
+        "SIEM",
+        "threat intelligence",
+        "SOC"
+      ],
+      "score": 70,
+      "priority": "medium",
+      "status": "Identified"
+    },
+    {
+      "id": 2,
+      "title": "Supply and Implementation of AI-Powered Analytics Platform",
+      "ref": "SITA/AI/2026/047",
+      "dept": "State Information Technology Agency (SITA)",
+      "country": "South Africa",
+      "source": "eTenders Portal",
+      "url": "https://www.etenders.gov.za",
+      "category": "ai",
+      "value": "R 12,000,000",
+      "closing": "2026-08-22",
+      "posted": "2026-06-20",
+      "description": "Procurement of an Artificial Intelligence and Machine Learning analytics platform with NLP capabilities for government data processing.",
+      "keywords": [
+        "AI-powered",
+        "NLP",
+        "artificial intelligence",
+        "machine learning"
+      ],
+      "score": 62,
+      "priority": "low",
+      "status": "Identified"
+    },
+    {
+      "id": 3,
+      "title": "ISO 27001 Information Security Management System Implementation",
+      "ref": "NHI/ISMS/2026/003",
+      "dept": "National Health Insurance Fund",
+      "country": "South Africa",
+      "source": "Government Gazette",
+      "url": "https://www.gpwonline.co.za",
+      "category": "compliance",
+      "value": "R 3,200,000",
+      "closing": "2026-07-28",
+      "posted": "2026-06-20",
+      "description": "Full ISMS implementation aligned to ISO 27001:2022, including gap analysis, risk assessment, controls implementation and certification audit support.",
+      "keywords": [
+        "ISO 27001",
+        "compliance",
+        "information security"
+      ],
+      "score": 75,
+      "priority": "medium",
+      "status": "Identified"
+    },
+    {
+      "id": 4,
+      "title": "Penetration Testing and Vulnerability Assessment Services",
+      "ref": "SARB/SEC/2026/011",
+      "dept": "South African Reserve Bank",
+      "country": "South Africa",
+      "source": "eTenders Portal",
+      "url": "https://www.etenders.gov.za",
+      "category": "cybersecurity",
+      "value": "R 1,800,000",
+      "closing": "2026-08-05",
+      "posted": "2026-06-20",
+      "description": "Annual penetration testing, VAPT, red team exercises, and vulnerability assessment across all digital infrastructure.",
+      "keywords": [
+        "cybersecurity",
+        "penetration testing",
+        "vulnerability assessment",
+        "VAPT",
+        "red team"
+      ],
+      "score": 70,
+      "priority": "medium",
+      "status": "Identified"
+    },
+    {
+      "id": 5,
+      "title": "Digital Transformation and Cloud Security Advisory",
+      "ref": "COGTA/DT/2026/028",
+      "dept": "Dept of Cooperative Governance",
+      "country": "South Africa",
+      "source": "eTenders Portal",
+      "url": "https://www.etenders.gov.za",
+      "category": "ict",
+      "value": "R 5,600,000",
+      "closing": "2026-09-01",
+      "posted": "2026-06-20",
+      "description": "Strategic advisory for digital transformation roadmap, cloud migration planning, Zero Trust architecture design, and Microsoft 365 security configuration.",
+      "keywords": [
+        "cloud security",
+        "zero trust"
+      ],
+      "score": 50,
+      "priority": "low",
+      "status": "Identified"
+    },
+    {
+      "id": 6,
+      "title": "Procurement of POPIA Compliance Framework and Tools",
+      "ref": "IC/POPIA/2026/002",
+      "dept": "Information Regulator South Africa",
+      "country": "South Africa",
+      "source": "Government Gazette",
+      "url": "https://www.gpwonline.co.za",
+      "category": "compliance",
+      "value": "R 2,400,000",
+      "closing": "2026-08-12",
+      "posted": "2026-06-20",
+      "description": "Implementation of POPIA compliance management system, data protection impact assessments, and staff awareness training.",
+      "keywords": [
+        "POPIA",
+        "data protection",
+        "compliance"
+      ],
+      "score": 60,
+      "priority": "low",
+      "status": "Identified"
+    },
+    {
+      "id": 7,
+      "title": "Cybersecurity Consulting Services — Procurement Authority",
+      "ref": "PPADB/ICT/2026/014",
+      "dept": "Public Procurement & Asset Disposal Board",
+      "country": "Botswana",
+      "source": "PPADB Botswana",
+      "url": "https://www.ppadb.co.bw",
+      "category": "cybersecurity",
+      "value": "BWP 4,200,000",
+      "closing": "2026-08-20",
+      "posted": "2026-06-20",
+      "description": "Information security assessment, policy development, and ISMS implementation aligned to ISO 27001.",
+      "keywords": [
+        "cybersecurity",
+        "ISO 27001",
+        "information security"
+      ],
+      "score": 70,
+      "priority": "medium",
+      "status": "Identified"
+    },
+    {
+      "id": 8,
+      "title": "ISMS and ISO 27001 Certification Support — Bank of Namibia",
+      "ref": "BON/SEC/2026/005",
+      "dept": "Bank of Namibia",
+      "country": "Namibia",
+      "source": "CPB Namibia",
+      "url": "https://www.cpb.gov.na",
+      "category": "compliance",
+      "value": "NAD 3,500,000",
+      "closing": "2026-08-18",
+      "posted": "2026-06-20",
+      "description": "ISO 27001:2022 gap analysis, ISMS documentation, controls implementation, and pre-certification audit support.",
+      "keywords": [
+        "ISO 27001",
+        "compliance"
+      ],
+      "score": 70,
+      "priority": "medium",
+      "status": "Identified"
+    }
+  ]
+}
