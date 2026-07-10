@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T14:04:25.488434",
+  "generated_at": "2026-07-10T12:41:17.490614",
   "target_year": 2026,
   "total_open_tenders": 14,
   "data_source": "fallback_seed",
@@ -15,14 +15,14 @@
       "category": "cybersecurity",
       "value": "R 8,500,000",
       "closing": "2026-08-15",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Establishment of a Security Operations Centre including SIEM deployment, 24/7 monitoring, incident response and threat intelligence.",
       "keywords": [
-        "SIEM",
-        "SOC",
+        "incident response",
         "cybersecurity",
+        "SIEM",
         "threat intelligence",
-        "incident response"
+        "SOC"
       ],
       "score": 70,
       "priority": "medium",
@@ -39,11 +39,11 @@
       "category": "ai",
       "value": "R 12,000,000",
       "closing": "2026-08-22",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "AI and Machine Learning analytics platform with NLP capabilities for government data processing.",
       "keywords": [
-        "NLP",
-        "machine learning"
+        "machine learning",
+        "NLP"
       ],
       "score": 62,
       "priority": "low",
@@ -60,7 +60,7 @@
       "category": "compliance",
       "value": "R 3,200,000",
       "closing": "2026-07-28",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Full ISMS implementation aligned to ISO 27001:2022 including gap analysis, risk assessment and certification audit support.",
       "keywords": [
         "ISO 27001"
@@ -80,12 +80,12 @@
       "category": "cybersecurity",
       "value": "R 1,800,000",
       "closing": "2026-08-05",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Annual penetration testing, VAPT, red team exercises and vulnerability assessment.",
       "keywords": [
         "vulnerability assessment",
-        "VAPT",
-        "penetration testing"
+        "penetration testing",
+        "VAPT"
       ],
       "score": 70,
       "priority": "medium",
@@ -102,12 +102,12 @@
       "category": "ict",
       "value": "R 5,600,000",
       "closing": "2026-09-01",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Strategic advisory for digital transformation, cloud migration, Zero Trust architecture and Microsoft 365 security.",
       "keywords": [
         "zero trust",
-        "cloud security",
-        "digital transformation"
+        "digital transformation",
+        "cloud security"
       ],
       "score": 50,
       "priority": "low",
@@ -124,12 +124,12 @@
       "category": "compliance",
       "value": "R 2,400,000",
       "closing": "2026-08-12",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Implementation of POPIA compliance management system, data protection impact assessments and staff awareness training.",
       "keywords": [
+        "POPIA",
         "data protection",
-        "compliance",
-        "POPIA"
+        "compliance"
       ],
       "score": 60,
       "priority": "low",
@@ -146,11 +146,11 @@
       "category": "ict",
       "value": "R 15,000,000",
       "closing": "2026-09-15",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Next-gen firewalls, EDR deployment, network segmentation and identity management systems.",
       "keywords": [
-        "EDR",
-        "firewall"
+        "firewall",
+        "EDR"
       ],
       "score": 50,
       "priority": "low",
@@ -167,7 +167,7 @@
       "category": "cybersecurity",
       "value": "R 890,000",
       "closing": "2026-07-31",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Cybersecurity awareness training including phishing simulations, e-learning modules and executive workshops.",
       "keywords": [
         "cybersecurity"
@@ -187,11 +187,11 @@
       "category": "cybersecurity",
       "value": "R 22,000,000",
       "closing": "2026-10-01",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Establish and operate a national CERT/CSIRT capability including threat intelligence sharing and incident coordination.",
       "keywords": [
-        "threat intelligence",
-        "incident response"
+        "incident response",
+        "threat intelligence"
       ],
       "score": 70,
       "priority": "medium",
@@ -208,7 +208,7 @@
       "category": "ai",
       "value": "R 6,700,000",
       "closing": "2026-08-28",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "AI-augmented SIEM with automated threat detection, behavioural analytics and OT/IT integration.",
       "keywords": [
         "SIEM"
@@ -228,12 +228,12 @@
       "category": "cybersecurity",
       "value": "BWP 4,200,000",
       "closing": "2026-08-20",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Information security assessment, policy development and ISO 27001 ISMS implementation.",
       "keywords": [
         "information security",
-        "cybersecurity",
-        "ISO 27001"
+        "ISO 27001",
+        "cybersecurity"
       ],
       "score": 70,
       "priority": "medium",
@@ -250,7 +250,7 @@
       "category": "compliance",
       "value": "NAD 3,500,000",
       "closing": "2026-08-18",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "ISO 27001:2022 gap analysis, ISMS documentation, controls implementation and pre-certification audit.",
       "keywords": [
         "ISO 27001"
@@ -270,11 +270,11 @@
       "category": "ai",
       "value": "TZS 850,000,000",
       "closing": "2026-09-10",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "AI and machine learning platform for tax compliance analytics, risk scoring and fraud detection.",
       "keywords": [
-        "compliance",
         "machine learning",
+        "compliance",
         "AI platform"
       ],
       "score": 67,
@@ -292,14 +292,14 @@
       "category": "ict",
       "value": "ZMW 12,000,000",
       "closing": "2026-08-30",
-      "posted": "2026-07-09",
+      "posted": "2026-07-10",
       "description": "Firewall infrastructure, IPS/IDS systems and network monitoring across government ministries.",
       "keywords": [
         "NIST",
-        "IPS",
         "firewall",
-        "IDS",
-        "network security"
+        "network security",
+        "IPS",
+        "IDS"
       ],
       "score": 45,
       "priority": "low",
