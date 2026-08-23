@@ -1,32 +1,11 @@
 {
-  "generated_at": "2026-08-22T04:33:22.777162",
+  "generated_at": "2026-08-23T04:37:33.080940",
   "target_year": 2026,
-  "total_open_tenders": 7,
+  "total_open_tenders": 6,
   "data_source": "fallback_seed",
   "tenders": [
     {
       "id": 1,
-      "title": "Supply of AI-Powered Analytics Platform",
-      "ref": "SITA/AI/2026/047",
-      "dept": "State Information Technology Agency",
-      "country": "South Africa",
-      "source": "eTenders Portal",
-      "url": "https://www.etenders.gov.za",
-      "category": "ai",
-      "value": "R 12,000,000",
-      "closing": "2026-08-22",
-      "posted": "2026-08-22",
-      "description": "AI and Machine Learning analytics platform with NLP capabilities for government data processing.",
-      "keywords": [
-        "NLP",
-        "machine learning"
-      ],
-      "score": 62,
-      "priority": "low",
-      "status": "Identified"
-    },
-    {
-      "id": 2,
       "title": "Digital Transformation and Cloud Security Advisory",
       "ref": "COGTA/DT/2026/028",
       "dept": "Dept of Cooperative Governance",
@@ -36,19 +15,19 @@
       "category": "ict",
       "value": "R 5,600,000",
       "closing": "2026-09-01",
-      "posted": "2026-08-22",
+      "posted": "2026-08-23",
       "description": "Strategic advisory for digital transformation, cloud migration, Zero Trust architecture and Microsoft 365 security.",
       "keywords": [
+        "zero trust",
         "digital transformation",
-        "cloud security",
-        "zero trust"
+        "cloud security"
       ],
       "score": 50,
       "priority": "low",
       "status": "Identified"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "ICT Infrastructure Security Upgrade",
       "ref": "NT/ICT/2026/019",
       "dept": "National Treasury",
@@ -58,7 +37,7 @@
       "category": "ict",
       "value": "R 15,000,000",
       "closing": "2026-09-15",
-      "posted": "2026-08-22",
+      "posted": "2026-08-23",
       "description": "Next-gen firewalls, EDR deployment, network segmentation and identity management systems.",
       "keywords": [
         "firewall",
@@ -69,7 +48,7 @@
       "status": "Identified"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "National Cyber Incident Response Team",
       "ref": "DCDT/CERT/2026/001",
       "dept": "Dept of Communications & Digital Technologies",
@@ -79,7 +58,7 @@
       "category": "cybersecurity",
       "value": "R 22,000,000",
       "closing": "2026-10-01",
-      "posted": "2026-08-22",
+      "posted": "2026-08-23",
       "description": "Establish and operate a national CERT/CSIRT capability including threat intelligence sharing and incident coordination.",
       "keywords": [
         "incident response",
@@ -90,7 +69,7 @@
       "status": "Identified"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "AI-Powered SIEM Platform",
       "ref": "PRASA/IT/2026/033",
       "dept": "Passenger Rail Agency of SA",
@@ -100,7 +79,7 @@
       "category": "ai",
       "value": "R 6,700,000",
       "closing": "2026-08-28",
-      "posted": "2026-08-22",
+      "posted": "2026-08-23",
       "description": "AI-augmented SIEM with automated threat detection, behavioural analytics and OT/IT integration.",
       "keywords": [
         "SIEM"
@@ -110,7 +89,7 @@
       "status": "Identified"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Digital Government AI Platform",
       "ref": "TRA/AI/2026/007",
       "dept": "Tanzania Revenue Authority",
@@ -120,19 +99,19 @@
       "category": "ai",
       "value": "TZS 850,000,000",
       "closing": "2026-09-10",
-      "posted": "2026-08-22",
+      "posted": "2026-08-23",
       "description": "AI and machine learning platform for tax compliance analytics, risk scoring and fraud detection.",
       "keywords": [
-        "AI platform",
         "machine learning",
-        "compliance"
+        "compliance",
+        "AI platform"
       ],
       "score": 67,
       "priority": "medium",
       "status": "Identified"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Network Security Infrastructure \u2014 Zambia ICT",
       "ref": "ZICTA/NET/2026/022",
       "dept": "Zambia ICT Authority",
@@ -142,14 +121,14 @@
       "category": "ict",
       "value": "ZMW 12,000,000",
       "closing": "2026-08-30",
-      "posted": "2026-08-22",
+      "posted": "2026-08-23",
       "description": "Firewall infrastructure, IPS/IDS systems and network monitoring across government ministries.",
       "keywords": [
-        "network security",
         "IDS",
+        "firewall",
+        "network security",
         "NIST",
-        "IPS",
-        "firewall"
+        "IPS"
       ],
       "score": 45,
       "priority": "low",
