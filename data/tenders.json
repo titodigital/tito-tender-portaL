@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T09:48:56.295135",
+  "generated_at": "2026-08-31T10:38:11.792506",
   "target_year": 2026,
-  "total_open_tenders": 5,
+  "total_open_tenders": 4,
   "data_source": "fallback_seed",
   "tenders": [
     {
@@ -15,11 +15,11 @@
       "category": "ict",
       "value": "R 5,600,000",
       "closing": "2026-09-01",
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "description": "Strategic advisory for digital transformation, cloud migration, Zero Trust architecture and Microsoft 365 security.",
       "keywords": [
-        "zero trust",
         "cloud security",
+        "zero trust",
         "digital transformation"
       ],
       "score": 50,
@@ -37,11 +37,11 @@
       "category": "ict",
       "value": "R 15,000,000",
       "closing": "2026-09-15",
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "description": "Next-gen firewalls, EDR deployment, network segmentation and identity management systems.",
       "keywords": [
-        "firewall",
-        "EDR"
+        "EDR",
+        "firewall"
       ],
       "score": 50,
       "priority": "low",
@@ -58,7 +58,7 @@
       "category": "cybersecurity",
       "value": "R 22,000,000",
       "closing": "2026-10-01",
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "description": "Establish and operate a national CERT/CSIRT capability including threat intelligence sharing and incident coordination.",
       "keywords": [
         "threat intelligence",
@@ -79,39 +79,15 @@
       "category": "ai",
       "value": "TZS 850,000,000",
       "closing": "2026-09-10",
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "description": "AI and machine learning platform for tax compliance analytics, risk scoring and fraud detection.",
       "keywords": [
         "machine learning",
-        "AI platform",
-        "compliance"
+        "compliance",
+        "AI platform"
       ],
       "score": 67,
       "priority": "medium",
-      "status": "Identified"
-    },
-    {
-      "id": 5,
-      "title": "Network Security Infrastructure \u2014 Zambia ICT",
-      "ref": "ZICTA/NET/2026/022",
-      "dept": "Zambia ICT Authority",
-      "country": "Zambia",
-      "source": "ZPPA Zambia",
-      "url": "https://www.zppa.org.zm",
-      "category": "ict",
-      "value": "ZMW 12,000,000",
-      "closing": "2026-08-30",
-      "posted": "2026-08-30",
-      "description": "Firewall infrastructure, IPS/IDS systems and network monitoring across government ministries.",
-      "keywords": [
-        "IDS",
-        "firewall",
-        "network security",
-        "IPS",
-        "NIST"
-      ],
-      "score": 45,
-      "priority": "low",
       "status": "Identified"
     }
   ]
