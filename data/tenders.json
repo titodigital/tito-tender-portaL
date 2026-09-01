@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:38:11.792506",
+  "generated_at": "2026-09-01T09:13:52.125499",
   "target_year": 2026,
   "total_open_tenders": 4,
   "data_source": "fallback_seed",
@@ -15,12 +15,12 @@
       "category": "ict",
       "value": "R 5,600,000",
       "closing": "2026-09-01",
-      "posted": "2026-08-31",
+      "posted": "2026-09-01",
       "description": "Strategic advisory for digital transformation, cloud migration, Zero Trust architecture and Microsoft 365 security.",
       "keywords": [
-        "cloud security",
         "zero trust",
-        "digital transformation"
+        "digital transformation",
+        "cloud security"
       ],
       "score": 50,
       "priority": "low",
@@ -37,7 +37,7 @@
       "category": "ict",
       "value": "R 15,000,000",
       "closing": "2026-09-15",
-      "posted": "2026-08-31",
+      "posted": "2026-09-01",
       "description": "Next-gen firewalls, EDR deployment, network segmentation and identity management systems.",
       "keywords": [
         "EDR",
@@ -58,11 +58,11 @@
       "category": "cybersecurity",
       "value": "R 22,000,000",
       "closing": "2026-10-01",
-      "posted": "2026-08-31",
+      "posted": "2026-09-01",
       "description": "Establish and operate a national CERT/CSIRT capability including threat intelligence sharing and incident coordination.",
       "keywords": [
-        "threat intelligence",
-        "incident response"
+        "incident response",
+        "threat intelligence"
       ],
       "score": 70,
       "priority": "medium",
@@ -79,12 +79,12 @@
       "category": "ai",
       "value": "TZS 850,000,000",
       "closing": "2026-09-10",
-      "posted": "2026-08-31",
+      "posted": "2026-09-01",
       "description": "AI and machine learning platform for tax compliance analytics, risk scoring and fraud detection.",
       "keywords": [
-        "machine learning",
+        "AI platform",
         "compliance",
-        "AI platform"
+        "machine learning"
       ],
       "score": 67,
       "priority": "medium",
