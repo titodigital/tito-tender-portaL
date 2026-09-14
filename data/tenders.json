@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:25:27.676855",
+  "generated_at": "2026-09-14T09:38:17.018599",
   "target_year": 2026,
   "total_open_tenders": 2,
   "data_source": "fallback_seed",
@@ -15,7 +15,7 @@
       "category": "ict",
       "value": "R 15,000,000",
       "closing": "2026-09-15",
-      "posted": "2026-09-12",
+      "posted": "2026-09-14",
       "description": "Next-gen firewalls, EDR deployment, network segmentation and identity management systems.",
       "keywords": [
         "EDR",
@@ -36,11 +36,11 @@
       "category": "cybersecurity",
       "value": "R 22,000,000",
       "closing": "2026-10-01",
-      "posted": "2026-09-12",
+      "posted": "2026-09-14",
       "description": "Establish and operate a national CERT/CSIRT capability including threat intelligence sharing and incident coordination.",
       "keywords": [
-        "threat intelligence",
-        "incident response"
+        "incident response",
+        "threat intelligence"
       ],
       "score": 70,
       "priority": "medium",
