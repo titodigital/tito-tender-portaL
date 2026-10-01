@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:21:03.297029",
+  "generated_at": "2026-10-01T10:46:20.561249",
   "target_year": 2026,
   "total_open_tenders": 1,
   "data_source": "fallback_seed",
@@ -15,7 +15,7 @@
       "category": "cybersecurity",
       "value": "R 22,000,000",
       "closing": "2026-10-01",
-      "posted": "2026-09-30",
+      "posted": "2026-10-01",
       "description": "Establish and operate a national CERT/CSIRT capability including threat intelligence sharing and incident coordination.",
       "keywords": [
         "threat intelligence",
